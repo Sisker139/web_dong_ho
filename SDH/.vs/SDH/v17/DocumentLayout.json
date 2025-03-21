@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\ShopDH\\SDH\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|e:\\shopdh\\sdh\\views\\shared\\_layoutmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:views\\shared\\_layoutmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|e:\\shopdh\\sdh\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|e:\\shopdh\\sdh\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|e:\\shopdh\\sdh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +38,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\ShopDH\\SDH\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "E:\\ShopDH\\SDH\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswLwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-21T07:27:52.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layoutmain.cshtml",
+              "DocumentMoniker": "E:\\ShopDH\\SDH\\Views\\Shared\\_Layoutmain.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layoutmain.cshtml",
+              "ToolTip": "E:\\ShopDH\\SDH\\Views\\Shared\\_Layoutmain.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layoutmain.cshtml",
+              "ViewState": "AgIAALEAAAAAAAAAAAAUwBgBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T07:26:50.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\ShopDH\\SDH\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\ShopDH\\SDH\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T07:15:33.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\ShopDH\\SDH\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\ShopDH\\SDH\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T06:32:02.509Z",
               "EditorCaption": ""

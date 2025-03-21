@@ -28,3 +28,4 @@ E:\ShopDH\SDH\obj\Debug\net8.0\refint\SDH.dll
 E:\ShopDH\SDH\obj\Debug\net8.0\SDH.pdb
 E:\ShopDH\SDH\obj\Debug\net8.0\SDH.genruntimeconfig.cache
 E:\ShopDH\SDH\obj\Debug\net8.0\ref\SDH.dll
+E:\ShopDH\SDH\obj\Debug\net8.0\SDH.sourcelink.json
