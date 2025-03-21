@@ -46,8 +46,7 @@
               "RelativeToolTip": "wwwroot\\index.html",
               "ViewState": "AgIAAA8AAAAAAAAAAAAswLwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-21T07:27:52.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T07:27:52.971Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layoutmain.cshtml",
               "ToolTip": "E:\\ShopDH\\SDH\\Views\\Shared\\_Layoutmain.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layoutmain.cshtml",
-              "ViewState": "AgIAALoAAAAAAAAAAAAAAFoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-21T07:26:50.696Z",
               "EditorCaption": ""
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T07:15:33.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T07:15:33.759Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T06:32:02.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T06:32:02.509Z"
             }
           ]
         }
