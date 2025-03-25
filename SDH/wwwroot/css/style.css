@@ -9582,3 +9582,14 @@ a.text-dark:hover, a.text-dark:focus {
     transform: translateY(-15px);
   }
 }
+.brands-name ul.nav-stacked li {
+    display: block; 
+    margin-bottom: 5px; 
+}
+
+    .brands-name ul.nav-stacked li a {
+        display: flex;
+        justify-content: space-between;
+        text-decoration: none;
+        color: #333; 
+    }

@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "D:\\web_dong_ho\\SDH\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\areas\\customer\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:areas\\customer\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\areas\\admin\\views\\quanlydh\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:areas\\admin\\views\\quanlydh\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:areas\\admin\\controllers\\quanlydhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +75,8 @@
       "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\areas\\customer\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:areas\\customer\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\areas\\customer\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:areas\\customer\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FBD1DF6-C231-40DF-BA0A-353D64FD2AE5}|SDH.csproj|d:\\web_dong_ho\\sdh\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,61 +129,81 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T11:23:26.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T11:23:23.172Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Admin\\Views\\QuanlyDH\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\QuanlyDH\\Index.cshtml",
-              "ToolTip": "D:\\web_dong_ho\\SDH\\Areas\\Admin\\Views\\QuanlyDH\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\QuanlyDH\\Index.cshtml",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAQwE8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T10:03:28.104Z",
+              "WhenOpened": "2025-03-21T07:23:26.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "QuanlyDHController.cs",
-              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Admin\\Controllers\\QuanlyDHController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\QuanlyDHController.cs",
-              "ToolTip": "D:\\web_dong_ho\\SDH\\Areas\\Admin\\Controllers\\QuanlyDHController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\QuanlyDHController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T10:03:00.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "D:\\web_dong_ho\\SDH\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwBsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T08:01:05.425Z"
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T11:24:42.747Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\web_dong_ho\\SDH\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T07:59:32.731Z"
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T11:24:54.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T11:23:01.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\web_dong_ho\\SDH\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -171,19 +215,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\web_dong_ho\\SDH\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T08:18:15.422Z"
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T07:26:58.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:01:05.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -195,7 +251,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T07:23:08.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:59:32.731Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T11:16:25.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Admin\\Views\\QuanlyDH\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\QuanlyDH\\Index.cshtml",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Areas\\Admin\\Views\\QuanlyDH\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\QuanlyDH\\Index.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T10:03:28.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuanlyDHController.cs",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Admin\\Controllers\\QuanlyDHController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\QuanlyDHController.cs",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Areas\\Admin\\Controllers\\QuanlyDHController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\QuanlyDHController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:03:00.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\web_dong_ho\\SDH\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:18:15.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Cart.cs",
               "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Models\\Cart.cs",
@@ -207,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
@@ -219,19 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T07:23:08.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "ShopController.cs",
               "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\ShopController.cs",
@@ -243,31 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "D:\\web_dong_ho\\SDH\\Areas\\Customer\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Customer\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T07:23:26.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\web_dong_ho\\SDH\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBZwBsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T07:26:58.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -279,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\web_dong_ho\\SDH\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
