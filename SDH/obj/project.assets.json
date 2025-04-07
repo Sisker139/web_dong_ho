@@ -5566,19 +5566,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thipl\\.nuget\\packages\\": {}
+    "C:\\Users\\chaut\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ShopDH\\SDH\\SDH.csproj",
+      "projectUniqueName": "D:\\webdongho\\SDH\\SDH.csproj",
       "projectName": "SDH",
-      "projectPath": "E:\\ShopDH\\SDH\\SDH.csproj",
-      "packagesPath": "C:\\Users\\thipl\\.nuget\\packages\\",
-      "outputPath": "E:\\ShopDH\\SDH\\obj\\",
+      "projectPath": "D:\\webdongho\\SDH\\SDH.csproj",
+      "packagesPath": "C:\\Users\\chaut\\.nuget\\packages\\",
+      "outputPath": "D:\\webdongho\\SDH\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thipl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chaut\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
