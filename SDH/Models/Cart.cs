@@ -21,6 +21,6 @@ namespace SDH.Models
         public Product Product { get; set; }
 
         [Required]
-        public int Quantity { get; set; }
+        public int Quantit { get; set; }
     }
 }

@@ -2,6 +2,7 @@
 
 namespace SDH.Areas.Customer.Controllers
 {
+    [Area("Customer")]
     public class ShopController : Controller
     {
         public IActionResult Index()

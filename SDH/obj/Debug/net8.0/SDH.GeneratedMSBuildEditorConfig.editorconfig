@@ -17,68 +17,80 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SDH
 build_property.RootNamespace = SDH
-build_property.ProjectDir = D:\web_dong_ho\SDH\
+build_property.ProjectDir = d:\web_dong_ho\SDH\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\web_dong_ho\SDH
+build_property.MSBuildProjectDirectory = d:\web_dong_ho\SDH
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 
-[D:/web_dong_ho/SDH/Areas/Admin/Views/QuanlyDH/Index.cshtml]
+[d:/web_dong_ho/SDH/Areas/Admin/Views/QuanlyDH/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVhbmx5REhcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Areas/Admin/Views/_ViewImports.cshtml]
+[d:/web_dong_ho/SDH/Areas/Admin/Views/QuanlySP/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVhbmx5U1BcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/web_dong_ho/SDH/Areas/Admin/Views/QuanlyTK/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVhbmx5VEtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/web_dong_ho/SDH/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Areas/Admin/Views/_ViewStart.cshtml]
+[d:/web_dong_ho/SDH/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Areas/Customer/Views/Home/Index.cshtml]
+[d:/web_dong_ho/SDH/Areas/Customer/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Areas/Customer/Views/Shop/Index.cshtml]
+[d:/web_dong_ho/SDH/Areas/Customer/Views/Shop/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Areas/Customer/Views/_ViewImports.cshtml]
+[d:/web_dong_ho/SDH/Areas/Customer/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Areas/Customer/Views/_ViewStart.cshtml]
+[d:/web_dong_ho/SDH/Areas/Customer/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Views/Shared/Error.cshtml]
+[d:/web_dong_ho/SDH/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Views/Shared/_Layout1.cshtml]
+[d:/web_dong_ho/SDH/Views/Shared/Layoutadmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dGFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/web_dong_ho/SDH/Views/Shared/_Layout1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Views/Shared/_Layoutmain.cshtml]
+[d:/web_dong_ho/SDH/Views/Shared/_Layoutmain.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRtYWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/web_dong_ho/SDH/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Views/_ViewImports.cshtml]
+[d:/web_dong_ho/SDH/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Views/_ViewStart.cshtml]
+[d:/web_dong_ho/SDH/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/web_dong_ho/SDH/Views/Shared/_Layout.cshtml]
+[d:/web_dong_ho/SDH/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uempxx23pi
